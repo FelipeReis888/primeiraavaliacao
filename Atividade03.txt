@@ -1,0 +1,53 @@
+01: Cadastro de Aluno
+Um sistema de cadastro de alunos precisa armazenar: nome completo, idade, altura e se está matriculado.
+
+Variáveis e tipos de dados:
+
+nomeAluno: String (nome completo do aluno)
+
+idade: int (idade do aluno em anos)
+
+altura: float (altura em metros, pode ter casas decimais)
+
+matriculado: boolean (true se está matriculado, false caso contrário)
+
+
+Variável adicional:
+
+email: String (e-mail de contato do aluno)
+
+02: Informações de Produto
+O programa deve armazenar: nome do produto, quantidade em estoque, preço unitário e se está disponível para venda.
+
+Variáveis e tipos de dados:
+
+nomeProduto: String (nome do produto)
+
+quantidadeEstoque: int (quantidade de unidades no estoque)
+
+precoUnitario: float (preço unitário do produto com casas decimais)
+
+disponivelVenda: boolean (true se o produto está disponível para venda, false se não)
+
+
+Variável adicional sugerida:
+
+fornecedor: String (nome do fornecedor do produto)
+
+03: Dados de um Evento
+O sistema precisa registrar: nome do evento, número de participantes esperados, preço do ingresso e se o evento será presencial.
+
+Variáveis e tipos de dados:
+
+nomeEvento: String (nome do evento)
+
+numParticipantes: int (número de participantes esperados)
+
+precoIngresso: float (preço do ingresso com casas decimais)
+
+presencial: boolean (true se o evento é presencial, false se online)
+
+
+Variável adicional sugerida:
+
+dataEvento: String ou Date (data do evento no formato “2025-07-15”)
